@@ -21,4 +21,3 @@ POST   /boletos
 PUT    /boletos/1
 PATCH  /boletos/1
 DELETE /boletos/1
-```# simplerestapi

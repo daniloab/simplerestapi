@@ -1,0 +1,22 @@
+{
+  "boletos": [
+    {
+      "id": 1,
+      "boleto": "Mensalidade",
+      "data": "18/03/2018",
+      "valor": 199.9
+    },
+    {
+      "id": 2,
+      "boleto": "Mensalidade",
+      "data": "18/04/2018",
+      "valor": 199.9
+    },
+    {
+      "id": 3,
+      "boleto": "Mensalidade",
+      "data": "18/06/2018",
+      "valor": 199.9
+    }
+  ]
+}
